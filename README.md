@@ -10,7 +10,7 @@ sensitivity analysis and Section 7 summarizes the project and gives suggestions 
 
 
 fear_and_greed.m and fg_matrix.m are used to compute the fear and greed indicator using the high, low and close values
-final_factor_code takes up the complete data and creates factor models and uses them to predict the future returns
+final_factor_code takes up the complete data and creates factor models and uses them to predict the future returns 
 conprog.m is a cvx based program that runs the optimization that produces the weights for each of the stock in the given universe.
 
 
